@@ -23,4 +23,3 @@ if (command === 'add') {
   console.log('Command not recognized');
 }
 
-console.log("aaa");
