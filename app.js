@@ -24,3 +24,4 @@ if (command === 'add') {
 }
 
 console.log("aaa");
+console.log("bbb");
