@@ -22,3 +22,5 @@ if (command === 'add') {
 } else {
   console.log('Command not recognized');
 }
+
+console.log("aaa");
